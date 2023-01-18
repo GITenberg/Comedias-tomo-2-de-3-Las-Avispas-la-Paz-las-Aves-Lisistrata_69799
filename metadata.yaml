@@ -1,0 +1,34 @@
+_repo: Comedias-tomo-2-de-3-Las-Avispas-la-Paz-las-Aves-Lisistrata_69799
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aristophanes
+    aliases:
+    - Αριστοφάνης
+    - Ἀριστοφάνης
+    - Aristófanes
+    - Aristofanes
+    birthdate: -450
+    deathdate: -388
+    gutenberg_agent_id: '965'
+    url: http://www.gutenberg.org/2009/agents/965
+    wikipedia: https://en.wikipedia.org/wiki/Aristophanes
+description: ''
+gutenberg_issued: '2023-01-14'
+identifiers:
+  gutenberg: '69799'
+language: es
+pgterms:marc904: https://archive.org/details/AU1013
+pgterms:marc905: 20220329033344author
+pgterms:marc906: '1881'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box. (This file was produced from images generously
+  made available by The Internet Archive/Universidad de Sevilla.)
+publication_note: 'Spain: Luis Navarro, editor,1881.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Comedias, tomo 2 de 3: Las Avispas, la Paz, las Aves, Lisístrata'
+url: http://www.gutenberg.org/ebooks/69799
